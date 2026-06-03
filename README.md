@@ -1,7 +1,3 @@
-# Hey there 👋, I'm Aakriti Varshney
-
-### 🤖 ML Engineer & Python Developer | Building AI tools that actually solve problems
-
 <h1 align="center">Hey there 👋, I'm Aakriti Varshney</h1>
 
 <h3 align="center">🤖 ML Engineer & Python Developer | Building AI tools that actually solve problems</h3>
