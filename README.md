@@ -86,10 +86,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakriti0805&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakriti0805&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Aakriti0805&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
